@@ -1,5 +1,6 @@
 # VGG13
 ///This project uses the CIFAR100 datasets from tensorflow.keras datasets///
+CNN: VGG13
 ***
 GPUs are recommanded because the depth of this net are 13 layers(convolution(10) + Dense(3)), and there are 5 layers of MaxPooling as well.  
 CPUs are not recommanded for the slow rate of proccessing data and training for decreasing the loss.
