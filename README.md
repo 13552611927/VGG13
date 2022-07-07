@@ -1,4 +1,4 @@
-# CIFAR100
+# CGG13
 ///This project uses the CIFAR100 datasets from tensorflow.keras datasets///
 ***
 GPUs are recommanded because the depth of this net are 13 layers(convolution(10) + Dense(3)), and there are 5 layers of MaxPooling as well.  
